@@ -1,0 +1,50 @@
+
+body {
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+color: white
+}
+
+
+.topnav {
+  overflow: hidden;
+  background-color: #000;
+}
+
+.topnav a {
+  float: left;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.topnav a:hover {
+  background-color: #49fb35;
+  color: white;
+}
+
+.topnav a.active {
+  background-color:#49fb35;
+  color: white;
+}
+
+div.box {
+    
+    
+    text-align: center
+    
+}
+
+p.small {
+   
+margin: 20PX;
+     line-height: 1.2;
+  
+}
+
+H1 {
+    
+     text-align: center
+}
